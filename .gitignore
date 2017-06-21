@@ -31,3 +31,5 @@
 
 # "temporary" build files
 /target
+
+*witcom_web/settings.py
